@@ -1,0 +1,58 @@
+Node_ID,Location,Latitude,Longitude,Zone
+1,Miyapur,17.4968,78.3614,Northwest
+2,KPHB (Kukatpally Phase B),17.494,78.4008,Northwest
+3,Kukatpally,17.4917,78.392,Northwest
+4,Jeedimetla,17.5008,78.4264,Northwest
+5,Balanagar,17.4728,78.4387,Northwest
+6,Hafeezpet,17.4578,78.3882,Northwest
+7,Moosapet,17.4676,78.4198,Northwest
+8,Adarsh Nagar,17.4856,78.4021,Northwest
+9,Chaitanya Enclave,17.4823,78.3967,Northwest
+10,Vijaya Nagar Colony,17.4893,78.4112,Northwest
+11,Gowlidoddy,17.5012,78.4156,Northwest
+12,IDPL Colony,17.4978,78.4089,Northwest
+13,Madhapur,17.4483,78.3915,West
+14,Kondapur,17.4657,78.3628,West
+15,Jubilee Hills,17.4332,78.4071,West
+16,Borabanda,17.4529,78.4387,West
+17,Kothaguda,17.4621,78.3765,West
+18,Gachibowli,17.4401,78.3489,Southwest
+19,Manikonda,17.4025,78.3883,Southwest
+20,Financial District,17.4189,78.3371,Southwest
+21,Kokapet,17.4098,78.3556,Southwest
+22,Tolichowki,17.3984,78.4098,Southwest
+23,Mehdipatnam,17.3967,78.4356,Southwest
+24,Attapur,17.3756,78.4289,Southwest
+25,Ameerpet,17.4374,78.4482,Central
+26,Banjara Hills,17.4165,78.4382,Central
+27,Begumpet,17.4412,78.4678,Central
+28,Himayatnagar,17.4049,78.4783,Central
+29,Kachiguda,17.3978,78.4989,Central
+30,King Koti,17.3967,78.4692,Central
+31,Gokul Nagar,17.4289,78.4567,Central
+32,Ramnagar,17.4156,78.4523,Central
+33,Nalanda Nagar,17.4223,78.4612,Central
+34,Ashok Bazar,17.4312,78.4698,Central
+35,Jamal Colony,17.4089,78.4456,Central
+36,Hill Colony,17.4278,78.4534,Central
+37,Secunderabad,17.4399,78.4983,North
+38,Alwal,17.5023,78.5112,North
+39,Kompally,17.5334,78.4889,North
+40,Suraram,17.5123,78.4456,North
+41,Anjaiah Nagar,17.4967,78.4723,North
+42,Sathya Colony,17.4889,78.4612,North
+43,Marthanda Nagar,17.5078,78.4834,North
+44,Chititra Medchal,17.5489,78.4723,North
+45,Dr. A.S. Rao Nagar,17.4912,78.5487,Northeast
+46,Devar Yamjal,17.5234,78.5623,Northeast (Rangareddy)
+47,Nagaram,17.4534,78.5789,East
+48,Tarakarama Nagar,17.4423,78.5456,East
+49,Peerzadiguda,17.4612,78.5612,East
+50,Whitefield,17.4389,78.5234,East
+51,LB Nagar,17.3512,78.5523,Southeast
+52,Dilsukhnagar,17.3687,78.5245,Southeast
+53,Kothapet,17.3823,78.5312,Southeast
+54,Meerpet,17.3456,78.5612,Southeast
+55,Moosarambagh,17.3612,78.4923,South
+56,Madannapet Colony,17.3534,78.4812,South
+57,Charminar,17.3616,78.4747,Old City

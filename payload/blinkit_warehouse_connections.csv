@@ -1,0 +1,58 @@
+from_node_id,to_node_id,from_location,to_location,distance_km,travel_time_mins,route_type,from_zone,to_zone
+0,1,Shamshabad Master Warehouse,Miyapur,29.42,59.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Northwest
+0,2,Shamshabad Master Warehouse,KPHB (Kukatpally Phase B),28.37,57.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Northwest
+0,3,Shamshabad Master Warehouse,Kukatpally,28.23,56.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Northwest
+0,4,Shamshabad Master Warehouse,Jeedimetla,28.97,58.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Northwest
+0,5,Shamshabad Master Warehouse,Balanagar,25.87,52.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Northwest
+0,6,Shamshabad Master Warehouse,Hafeezpet,24.58,49.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Northwest
+0,7,Shamshabad Master Warehouse,Moosapet,25.3,51.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Northwest
+0,8,Shamshabad Master Warehouse,Adarsh Nagar,27.43,55.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Northwest
+0,9,Shamshabad Master Warehouse,Chaitanya Enclave,27.13,54.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Northwest
+0,10,Shamshabad Master Warehouse,Vijaya Nagar Colony,27.75,56.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Northwest
+0,11,Shamshabad Master Warehouse,Gowlidoddy,29.05,58.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Northwest
+0,12,Shamshabad Master Warehouse,IDPL Colony,28.72,57.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Northwest
+0,13,Shamshabad Master Warehouse,Madhapur,23.48,47.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,West
+0,14,Shamshabad Master Warehouse,Kondapur,26.04,52.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,West
+0,15,Shamshabad Master Warehouse,Jubilee Hills,21.58,43.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,West
+0,16,Shamshabad Master Warehouse,Borabanda,23.66,47.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,West
+0,17,Shamshabad Master Warehouse,Kothaguda,25.29,51.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,West
+0,18,Shamshabad Master Warehouse,Gachibowli,23.8,48.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Southwest
+0,19,Shamshabad Master Warehouse,Manikonda,18.56,37.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Southwest
+0,20,Shamshabad Master Warehouse,Financial District,22.14,44.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Southwest
+0,21,Shamshabad Master Warehouse,Kokapet,20.41,41.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Southwest
+0,22,Shamshabad Master Warehouse,Tolichowki,17.7,35.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Southwest
+0,23,Shamshabad Master Warehouse,Mehdipatnam,17.4,35.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Southwest
+0,24,Shamshabad Master Warehouse,Attapur,15.04,30.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Southwest
+0,25,Shamshabad Master Warehouse,Ameerpet,22.01,44.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Central
+0,26,Shamshabad Master Warehouse,Banjara Hills,19.61,39.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Central
+0,27,Shamshabad Master Warehouse,Begumpet,22.71,45.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Central
+0,28,Shamshabad Master Warehouse,Himayatnagar,19.02,38.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Central
+0,29,Shamshabad Master Warehouse,Kachiguda,19.0,38.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Central
+0,30,Shamshabad Master Warehouse,King Koti,17.9,36.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Central
+0,31,Shamshabad Master Warehouse,Gokul Nagar,21.17,42.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Central
+0,32,Shamshabad Master Warehouse,Ramnagar,19.64,39.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Central
+0,33,Shamshabad Master Warehouse,Nalanda Nagar,20.52,41.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Central
+0,34,Shamshabad Master Warehouse,Ashok Bazar,21.66,43.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Central
+0,35,Shamshabad Master Warehouse,Jamal Colony,18.83,38.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Central
+0,36,Shamshabad Master Warehouse,Hill Colony,21.0,42.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Central
+0,37,Shamshabad Master Warehouse,Secunderabad,23.37,47.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,North
+0,38,Shamshabad Master Warehouse,Alwal,30.4,61.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,North
+0,39,Shamshabad Master Warehouse,Kompally,33.2,66.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,North
+0,40,Shamshabad Master Warehouse,Suraram,30.29,61.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,North
+0,41,Shamshabad Master Warehouse,Anjaiah Nagar,28.87,58.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,North
+0,42,Shamshabad Master Warehouse,Sathya Colony,27.85,56.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,North
+0,43,Shamshabad Master Warehouse,Marthanda Nagar,30.29,61.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,North
+0,44,Shamshabad Master Warehouse,Chititra Medchal,34.62,69.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,North
+0,45,Shamshabad Master Warehouse,Dr. A.S. Rao Nagar,30.64,61.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Northeast
+0,46,Shamshabad Master Warehouse,Devar Yamjal,34.49,69.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Northeast (Rangareddy)
+0,47,Shamshabad Master Warehouse,Nagaram,28.52,57.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,East
+0,48,Shamshabad Master Warehouse,Tarakarama Nagar,25.62,51.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,East
+0,49,Shamshabad Master Warehouse,Peerzadiguda,28.27,57.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,East
+0,50,Shamshabad Master Warehouse,Whitefield,24.23,48.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,East
+0,51,Shamshabad Master Warehouse,LB Nagar,17.95,36.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Southeast
+0,52,Shamshabad Master Warehouse,Dilsukhnagar,17.49,35.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Southeast
+0,53,Shamshabad Master Warehouse,Kothapet,19.13,38.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Southeast
+0,54,Shamshabad Master Warehouse,Meerpet,18.25,36.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Southeast
+0,55,Shamshabad Master Warehouse,Moosarambagh,15.01,30.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,South
+0,56,Shamshabad Master Warehouse,Madannapet Colony,13.73,27.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,South
+0,57,Shamshabad Master Warehouse,Charminar,14.32,29.0,WAREHOUSE_TO_DARKSTORE,Master_Warehouse,Old City

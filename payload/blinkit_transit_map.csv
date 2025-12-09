@@ -1,0 +1,495 @@
+Node_ID,Location,Latitude,Longitude,Zone,Connected_To,Connected_Location,Distance_KM
+1,Miyapur,17.4968,78.3614,Northwest,2,KPHB (Kukatpally Phase B),4.19
+1,Miyapur,17.4968,78.3614,Northwest,3,Kukatpally,3.29
+1,Miyapur,17.4968,78.3614,Northwest,8,Adarsh Nagar,4.49
+1,Miyapur,17.4968,78.3614,Northwest,9,Chaitanya Enclave,4.08
+1,Miyapur,17.4968,78.3614,Northwest,14,Kondapur,3.46
+1,Miyapur,17.4968,78.3614,Northwest,17,Kothaguda,4.18
+2,KPHB (Kukatpally Phase B),17.494,78.4008,Northwest,1,Miyapur,4.19
+2,KPHB (Kukatpally Phase B),17.494,78.4008,Northwest,3,Kukatpally,0.97
+2,KPHB (Kukatpally Phase B),17.494,78.4008,Northwest,4,Jeedimetla,2.82
+2,KPHB (Kukatpally Phase B),17.494,78.4008,Northwest,5,Balanagar,4.66
+2,KPHB (Kukatpally Phase B),17.494,78.4008,Northwest,6,Hafeezpet,4.24
+2,KPHB (Kukatpally Phase B),17.494,78.4008,Northwest,7,Moosapet,3.56
+2,KPHB (Kukatpally Phase B),17.494,78.4008,Northwest,8,Adarsh Nagar,0.94
+2,KPHB (Kukatpally Phase B),17.494,78.4008,Northwest,9,Chaitanya Enclave,1.37
+2,KPHB (Kukatpally Phase B),17.494,78.4008,Northwest,10,Vijaya Nagar Colony,1.22
+2,KPHB (Kukatpally Phase B),17.494,78.4008,Northwest,11,Gowlidoddy,1.76
+2,KPHB (Kukatpally Phase B),17.494,78.4008,Northwest,12,IDPL Colony,0.96
+2,KPHB (Kukatpally Phase B),17.494,78.4008,Northwest,17,Kothaguda,4.38
+3,Kukatpally,17.4917,78.392,Northwest,1,Miyapur,3.29
+3,Kukatpally,17.4917,78.392,Northwest,2,KPHB (Kukatpally Phase B),0.97
+3,Kukatpally,17.4917,78.392,Northwest,4,Jeedimetla,3.79
+3,Kukatpally,17.4917,78.392,Northwest,6,Hafeezpet,3.79
+3,Kukatpally,17.4917,78.392,Northwest,7,Moosapet,3.98
+3,Kukatpally,17.4917,78.392,Northwest,8,Adarsh Nagar,1.27
+3,Kukatpally,17.4917,78.392,Northwest,9,Chaitanya Enclave,1.16
+3,Kukatpally,17.4917,78.392,Northwest,10,Vijaya Nagar Colony,2.05
+3,Kukatpally,17.4917,78.392,Northwest,11,Gowlidoddy,2.72
+3,Kukatpally,17.4917,78.392,Northwest,12,IDPL Colony,1.92
+3,Kukatpally,17.4917,78.392,Northwest,13,Madhapur,4.83
+3,Kukatpally,17.4917,78.392,Northwest,14,Kondapur,4.24
+3,Kukatpally,17.4917,78.392,Northwest,17,Kothaguda,3.68
+4,Jeedimetla,17.5008,78.4264,Northwest,2,KPHB (Kukatpally Phase B),2.82
+4,Jeedimetla,17.5008,78.4264,Northwest,3,Kukatpally,3.79
+4,Jeedimetla,17.5008,78.4264,Northwest,5,Balanagar,3.38
+4,Jeedimetla,17.5008,78.4264,Northwest,7,Moosapet,3.76
+4,Jeedimetla,17.5008,78.4264,Northwest,8,Adarsh Nagar,3.08
+4,Jeedimetla,17.5008,78.4264,Northwest,9,Chaitanya Enclave,3.76
+4,Jeedimetla,17.5008,78.4264,Northwest,10,Vijaya Nagar Colony,2.06
+4,Jeedimetla,17.5008,78.4264,Northwest,11,Gowlidoddy,1.15
+4,Jeedimetla,17.5008,78.4264,Northwest,12,IDPL Colony,1.89
+4,Jeedimetla,17.5008,78.4264,Northwest,40,Suraram,2.4
+4,Jeedimetla,17.5008,78.4264,Northwest,41,Anjaiah Nagar,4.89
+4,Jeedimetla,17.5008,78.4264,Northwest,42,Sathya Colony,3.92
+5,Balanagar,17.4728,78.4387,Northwest,2,KPHB (Kukatpally Phase B),4.66
+5,Balanagar,17.4728,78.4387,Northwest,4,Jeedimetla,3.38
+5,Balanagar,17.4728,78.4387,Northwest,7,Moosapet,2.09
+5,Balanagar,17.4728,78.4387,Northwest,8,Adarsh Nagar,4.13
+5,Balanagar,17.4728,78.4387,Northwest,9,Chaitanya Enclave,4.58
+5,Balanagar,17.4728,78.4387,Northwest,10,Vijaya Nagar Colony,3.45
+5,Balanagar,17.4728,78.4387,Northwest,11,Gowlidoddy,4.0
+5,Balanagar,17.4728,78.4387,Northwest,12,IDPL Colony,4.21
+5,Balanagar,17.4728,78.4387,Northwest,16,Borabanda,2.21
+5,Balanagar,17.4728,78.4387,Northwest,25,Ameerpet,4.06
+5,Balanagar,17.4728,78.4387,Northwest,27,Begumpet,4.68
+5,Balanagar,17.4728,78.4387,Northwest,40,Suraram,4.45
+5,Balanagar,17.4728,78.4387,Northwest,41,Anjaiah Nagar,4.45
+5,Balanagar,17.4728,78.4387,Northwest,42,Sathya Colony,2.98
+6,Hafeezpet,17.4578,78.3882,Northwest,2,KPHB (Kukatpally Phase B),4.24
+6,Hafeezpet,17.4578,78.3882,Northwest,3,Kukatpally,3.79
+6,Hafeezpet,17.4578,78.3882,Northwest,7,Moosapet,3.52
+6,Hafeezpet,17.4578,78.3882,Northwest,8,Adarsh Nagar,3.42
+6,Hafeezpet,17.4578,78.3882,Northwest,9,Chaitanya Enclave,2.87
+6,Hafeezpet,17.4578,78.3882,Northwest,10,Vijaya Nagar Colony,4.27
+6,Hafeezpet,17.4578,78.3882,Northwest,12,IDPL Colony,4.96
+6,Hafeezpet,17.4578,78.3882,Northwest,13,Madhapur,1.11
+6,Hafeezpet,17.4578,78.3882,Northwest,14,Kondapur,2.83
+6,Hafeezpet,17.4578,78.3882,Northwest,15,Jubilee Hills,3.39
+6,Hafeezpet,17.4578,78.3882,Northwest,17,Kothaguda,1.33
+6,Hafeezpet,17.4578,78.3882,Northwest,18,Gachibowli,4.61
+7,Moosapet,17.4676,78.4198,Northwest,2,KPHB (Kukatpally Phase B),3.56
+7,Moosapet,17.4676,78.4198,Northwest,3,Kukatpally,3.98
+7,Moosapet,17.4676,78.4198,Northwest,4,Jeedimetla,3.76
+7,Moosapet,17.4676,78.4198,Northwest,5,Balanagar,2.09
+7,Moosapet,17.4676,78.4198,Northwest,6,Hafeezpet,3.52
+7,Moosapet,17.4676,78.4198,Northwest,8,Adarsh Nagar,2.74
+7,Moosapet,17.4676,78.4198,Northwest,9,Chaitanya Enclave,2.95
+7,Moosapet,17.4676,78.4198,Northwest,10,Vijaya Nagar Colony,2.58
+7,Moosapet,17.4676,78.4198,Northwest,11,Gowlidoddy,3.76
+7,Moosapet,17.4676,78.4198,Northwest,12,IDPL Colony,3.55
+7,Moosapet,17.4676,78.4198,Northwest,13,Madhapur,3.69
+7,Moosapet,17.4676,78.4198,Northwest,15,Jubilee Hills,4.06
+7,Moosapet,17.4676,78.4198,Northwest,16,Borabanda,2.59
+7,Moosapet,17.4676,78.4198,Northwest,17,Kothaguda,4.63
+7,Moosapet,17.4676,78.4198,Northwest,25,Ameerpet,4.51
+7,Moosapet,17.4676,78.4198,Northwest,42,Sathya Colony,4.99
+8,Adarsh Nagar,17.4856,78.4021,Northwest,1,Miyapur,4.49
+8,Adarsh Nagar,17.4856,78.4021,Northwest,2,KPHB (Kukatpally Phase B),0.94
+8,Adarsh Nagar,17.4856,78.4021,Northwest,3,Kukatpally,1.27
+8,Adarsh Nagar,17.4856,78.4021,Northwest,4,Jeedimetla,3.08
+8,Adarsh Nagar,17.4856,78.4021,Northwest,5,Balanagar,4.13
+8,Adarsh Nagar,17.4856,78.4021,Northwest,6,Hafeezpet,3.42
+8,Adarsh Nagar,17.4856,78.4021,Northwest,7,Moosapet,2.74
+8,Adarsh Nagar,17.4856,78.4021,Northwest,9,Chaitanya Enclave,0.68
+8,Adarsh Nagar,17.4856,78.4021,Northwest,10,Vijaya Nagar Colony,1.05
+8,Adarsh Nagar,17.4856,78.4021,Northwest,11,Gowlidoddy,2.25
+8,Adarsh Nagar,17.4856,78.4021,Northwest,12,IDPL Colony,1.54
+8,Adarsh Nagar,17.4856,78.4021,Northwest,13,Madhapur,4.3
+8,Adarsh Nagar,17.4856,78.4021,Northwest,14,Kondapur,4.72
+8,Adarsh Nagar,17.4856,78.4021,Northwest,17,Kothaguda,3.77
+9,Chaitanya Enclave,17.4823,78.3967,Northwest,1,Miyapur,4.08
+9,Chaitanya Enclave,17.4823,78.3967,Northwest,2,KPHB (Kukatpally Phase B),1.37
+9,Chaitanya Enclave,17.4823,78.3967,Northwest,3,Kukatpally,1.16
+9,Chaitanya Enclave,17.4823,78.3967,Northwest,4,Jeedimetla,3.76
+9,Chaitanya Enclave,17.4823,78.3967,Northwest,5,Balanagar,4.58
+9,Chaitanya Enclave,17.4823,78.3967,Northwest,6,Hafeezpet,2.87
+9,Chaitanya Enclave,17.4823,78.3967,Northwest,7,Moosapet,2.95
+9,Chaitanya Enclave,17.4823,78.3967,Northwest,8,Adarsh Nagar,0.68
+9,Chaitanya Enclave,17.4823,78.3967,Northwest,10,Vijaya Nagar Colony,1.72
+9,Chaitanya Enclave,17.4823,78.3967,Northwest,11,Gowlidoddy,2.9
+9,Chaitanya Enclave,17.4823,78.3967,Northwest,12,IDPL Colony,2.16
+9,Chaitanya Enclave,17.4823,78.3967,Northwest,13,Madhapur,3.82
+9,Chaitanya Enclave,17.4823,78.3967,Northwest,14,Kondapur,4.04
+9,Chaitanya Enclave,17.4823,78.3967,Northwest,17,Kothaguda,3.1
+10,Vijaya Nagar Colony,17.4893,78.4112,Northwest,2,KPHB (Kukatpally Phase B),1.22
+10,Vijaya Nagar Colony,17.4893,78.4112,Northwest,3,Kukatpally,2.05
+10,Vijaya Nagar Colony,17.4893,78.4112,Northwest,4,Jeedimetla,2.06
+10,Vijaya Nagar Colony,17.4893,78.4112,Northwest,5,Balanagar,3.45
+10,Vijaya Nagar Colony,17.4893,78.4112,Northwest,6,Hafeezpet,4.27
+10,Vijaya Nagar Colony,17.4893,78.4112,Northwest,7,Moosapet,2.58
+10,Vijaya Nagar Colony,17.4893,78.4112,Northwest,8,Adarsh Nagar,1.05
+10,Vijaya Nagar Colony,17.4893,78.4112,Northwest,9,Chaitanya Enclave,1.72
+10,Vijaya Nagar Colony,17.4893,78.4112,Northwest,11,Gowlidoddy,1.4
+10,Vijaya Nagar Colony,17.4893,78.4112,Northwest,12,IDPL Colony,0.98
+10,Vijaya Nagar Colony,17.4893,78.4112,Northwest,16,Borabanda,4.99
+10,Vijaya Nagar Colony,17.4893,78.4112,Northwest,17,Kothaguda,4.76
+10,Vijaya Nagar Colony,17.4893,78.4112,Northwest,40,Suraram,4.46
+11,Gowlidoddy,17.5012,78.4156,Northwest,2,KPHB (Kukatpally Phase B),1.76
+11,Gowlidoddy,17.5012,78.4156,Northwest,3,Kukatpally,2.72
+11,Gowlidoddy,17.5012,78.4156,Northwest,4,Jeedimetla,1.15
+11,Gowlidoddy,17.5012,78.4156,Northwest,5,Balanagar,4.0
+11,Gowlidoddy,17.5012,78.4156,Northwest,7,Moosapet,3.76
+11,Gowlidoddy,17.5012,78.4156,Northwest,8,Adarsh Nagar,2.25
+11,Gowlidoddy,17.5012,78.4156,Northwest,9,Chaitanya Enclave,2.9
+11,Gowlidoddy,17.5012,78.4156,Northwest,10,Vijaya Nagar Colony,1.4
+11,Gowlidoddy,17.5012,78.4156,Northwest,12,IDPL Colony,0.8
+11,Gowlidoddy,17.5012,78.4156,Northwest,40,Suraram,3.41
+12,IDPL Colony,17.4978,78.4089,Northwest,2,KPHB (Kukatpally Phase B),0.96
+12,IDPL Colony,17.4978,78.4089,Northwest,3,Kukatpally,1.92
+12,IDPL Colony,17.4978,78.4089,Northwest,4,Jeedimetla,1.89
+12,IDPL Colony,17.4978,78.4089,Northwest,5,Balanagar,4.21
+12,IDPL Colony,17.4978,78.4089,Northwest,6,Hafeezpet,4.96
+12,IDPL Colony,17.4978,78.4089,Northwest,7,Moosapet,3.55
+12,IDPL Colony,17.4978,78.4089,Northwest,8,Adarsh Nagar,1.54
+12,IDPL Colony,17.4978,78.4089,Northwest,9,Chaitanya Enclave,2.16
+12,IDPL Colony,17.4978,78.4089,Northwest,10,Vijaya Nagar Colony,0.98
+12,IDPL Colony,17.4978,78.4089,Northwest,11,Gowlidoddy,0.8
+12,IDPL Colony,17.4978,78.4089,Northwest,40,Suraram,4.21
+13,Madhapur,17.4483,78.3915,West,3,Kukatpally,4.83
+13,Madhapur,17.4483,78.3915,West,6,Hafeezpet,1.11
+13,Madhapur,17.4483,78.3915,West,7,Moosapet,3.69
+13,Madhapur,17.4483,78.3915,West,8,Adarsh Nagar,4.3
+13,Madhapur,17.4483,78.3915,West,9,Chaitanya Enclave,3.82
+13,Madhapur,17.4483,78.3915,West,14,Kondapur,3.61
+13,Madhapur,17.4483,78.3915,West,15,Jubilee Hills,2.36
+13,Madhapur,17.4483,78.3915,West,17,Kothaguda,2.21
+13,Madhapur,17.4483,78.3915,West,18,Gachibowli,4.61
+14,Kondapur,17.4657,78.3628,West,1,Miyapur,3.46
+14,Kondapur,17.4657,78.3628,West,3,Kukatpally,4.24
+14,Kondapur,17.4657,78.3628,West,6,Hafeezpet,2.83
+14,Kondapur,17.4657,78.3628,West,8,Adarsh Nagar,4.72
+14,Kondapur,17.4657,78.3628,West,9,Chaitanya Enclave,4.04
+14,Kondapur,17.4657,78.3628,West,13,Madhapur,3.61
+14,Kondapur,17.4657,78.3628,West,17,Kothaguda,1.51
+14,Kondapur,17.4657,78.3628,West,18,Gachibowli,3.21
+15,Jubilee Hills,17.4332,78.4071,West,6,Hafeezpet,3.39
+15,Jubilee Hills,17.4332,78.4071,West,7,Moosapet,4.06
+15,Jubilee Hills,17.4332,78.4071,West,13,Madhapur,2.36
+15,Jubilee Hills,17.4332,78.4071,West,16,Borabanda,4.0
+15,Jubilee Hills,17.4332,78.4071,West,17,Kothaguda,4.57
+15,Jubilee Hills,17.4332,78.4071,West,19,Manikonda,3.95
+15,Jubilee Hills,17.4332,78.4071,West,22,Tolichowki,3.88
+15,Jubilee Hills,17.4332,78.4071,West,25,Ameerpet,4.39
+15,Jubilee Hills,17.4332,78.4071,West,26,Banjara Hills,3.79
+15,Jubilee Hills,17.4332,78.4071,West,35,Jamal Colony,4.9
+15,Jubilee Hills,17.4332,78.4071,West,36,Hill Colony,4.95
+16,Borabanda,17.4529,78.4387,West,5,Balanagar,2.21
+16,Borabanda,17.4529,78.4387,West,7,Moosapet,2.59
+16,Borabanda,17.4529,78.4387,West,10,Vijaya Nagar Colony,4.99
+16,Borabanda,17.4529,78.4387,West,15,Jubilee Hills,4.0
+16,Borabanda,17.4529,78.4387,West,25,Ameerpet,2.0
+16,Borabanda,17.4529,78.4387,West,26,Banjara Hills,4.05
+16,Borabanda,17.4529,78.4387,West,27,Begumpet,3.35
+16,Borabanda,17.4529,78.4387,West,31,Gokul Nagar,3.28
+16,Borabanda,17.4529,78.4387,West,32,Ramnagar,4.39
+16,Borabanda,17.4529,78.4387,West,33,Nalanda Nagar,4.16
+16,Borabanda,17.4529,78.4387,West,34,Ashok Bazar,4.09
+16,Borabanda,17.4529,78.4387,West,35,Jamal Colony,4.95
+16,Borabanda,17.4529,78.4387,West,36,Hill Colony,3.2
+16,Borabanda,17.4529,78.4387,West,42,Sathya Colony,4.66
+17,Kothaguda,17.4621,78.3765,West,1,Miyapur,4.18
+17,Kothaguda,17.4621,78.3765,West,2,KPHB (Kukatpally Phase B),4.38
+17,Kothaguda,17.4621,78.3765,West,3,Kukatpally,3.68
+17,Kothaguda,17.4621,78.3765,West,6,Hafeezpet,1.33
+17,Kothaguda,17.4621,78.3765,West,7,Moosapet,4.63
+17,Kothaguda,17.4621,78.3765,West,8,Adarsh Nagar,3.77
+17,Kothaguda,17.4621,78.3765,West,9,Chaitanya Enclave,3.1
+17,Kothaguda,17.4621,78.3765,West,10,Vijaya Nagar Colony,4.76
+17,Kothaguda,17.4621,78.3765,West,13,Madhapur,2.21
+17,Kothaguda,17.4621,78.3765,West,14,Kondapur,1.51
+17,Kothaguda,17.4621,78.3765,West,15,Jubilee Hills,4.57
+17,Kothaguda,17.4621,78.3765,West,18,Gachibowli,3.82
+18,Gachibowli,17.4401,78.3489,Southwest,6,Hafeezpet,4.61
+18,Gachibowli,17.4401,78.3489,Southwest,13,Madhapur,4.61
+18,Gachibowli,17.4401,78.3489,Southwest,14,Kondapur,3.21
+18,Gachibowli,17.4401,78.3489,Southwest,17,Kothaguda,3.82
+18,Gachibowli,17.4401,78.3489,Southwest,20,Financial District,2.67
+18,Gachibowli,17.4401,78.3489,Southwest,21,Kokapet,3.44
+19,Manikonda,17.4025,78.3883,Southwest,15,Jubilee Hills,3.95
+19,Manikonda,17.4025,78.3883,Southwest,21,Kokapet,3.56
+19,Manikonda,17.4025,78.3883,Southwest,22,Tolichowki,2.33
+20,Financial District,17.4189,78.3371,Southwest,18,Gachibowli,2.67
+20,Financial District,17.4189,78.3371,Southwest,21,Kokapet,2.21
+21,Kokapet,17.4098,78.3556,Southwest,18,Gachibowli,3.44
+21,Kokapet,17.4098,78.3556,Southwest,19,Manikonda,3.56
+21,Kokapet,17.4098,78.3556,Southwest,20,Financial District,2.21
+22,Tolichowki,17.3984,78.4098,Southwest,15,Jubilee Hills,3.88
+22,Tolichowki,17.3984,78.4098,Southwest,19,Manikonda,2.33
+22,Tolichowki,17.3984,78.4098,Southwest,23,Mehdipatnam,2.74
+22,Tolichowki,17.3984,78.4098,Southwest,24,Attapur,3.25
+22,Tolichowki,17.3984,78.4098,Southwest,26,Banjara Hills,3.62
+22,Tolichowki,17.3984,78.4098,Southwest,32,Ramnagar,4.9
+22,Tolichowki,17.3984,78.4098,Southwest,35,Jamal Colony,3.97
+23,Mehdipatnam,17.3967,78.4356,Southwest,22,Tolichowki,2.74
+23,Mehdipatnam,17.3967,78.4356,Southwest,24,Attapur,2.45
+23,Mehdipatnam,17.3967,78.4356,Southwest,25,Ameerpet,4.72
+23,Mehdipatnam,17.3967,78.4356,Southwest,26,Banjara Hills,2.22
+23,Mehdipatnam,17.3967,78.4356,Southwest,28,Himayatnagar,4.62
+23,Mehdipatnam,17.3967,78.4356,Southwest,30,King Koti,3.57
+23,Mehdipatnam,17.3967,78.4356,Southwest,31,Gokul Nagar,4.22
+23,Mehdipatnam,17.3967,78.4356,Southwest,32,Ramnagar,2.75
+23,Mehdipatnam,17.3967,78.4356,Southwest,33,Nalanda Nagar,3.93
+23,Mehdipatnam,17.3967,78.4356,Southwest,35,Jamal Colony,1.72
+23,Mehdipatnam,17.3967,78.4356,Southwest,36,Hill Colony,3.94
+24,Attapur,17.3756,78.4289,Southwest,22,Tolichowki,3.25
+24,Attapur,17.3756,78.4289,Southwest,23,Mehdipatnam,2.45
+24,Attapur,17.3756,78.4289,Southwest,26,Banjara Hills,4.65
+24,Attapur,17.3756,78.4289,Southwest,30,King Koti,4.88
+24,Attapur,17.3756,78.4289,Southwest,35,Jamal Colony,4.1
+25,Ameerpet,17.4374,78.4482,Central,5,Balanagar,4.06
+25,Ameerpet,17.4374,78.4482,Central,7,Moosapet,4.51
+25,Ameerpet,17.4374,78.4482,Central,15,Jubilee Hills,4.39
+25,Ameerpet,17.4374,78.4482,Central,16,Borabanda,2.0
+25,Ameerpet,17.4374,78.4482,Central,23,Mehdipatnam,4.72
+25,Ameerpet,17.4374,78.4482,Central,26,Banjara Hills,2.55
+25,Ameerpet,17.4374,78.4482,Central,27,Begumpet,2.12
+25,Ameerpet,17.4374,78.4482,Central,28,Himayatnagar,4.82
+25,Ameerpet,17.4374,78.4482,Central,31,Gokul Nagar,1.31
+25,Ameerpet,17.4374,78.4482,Central,32,Ramnagar,2.46
+25,Ameerpet,17.4374,78.4482,Central,33,Nalanda Nagar,2.17
+25,Ameerpet,17.4374,78.4482,Central,34,Ashok Bazar,2.39
+25,Ameerpet,17.4374,78.4482,Central,35,Jamal Colony,3.18
+25,Ameerpet,17.4374,78.4482,Central,36,Hill Colony,1.2
+26,Banjara Hills,17.4165,78.4382,Central,15,Jubilee Hills,3.79
+26,Banjara Hills,17.4165,78.4382,Central,16,Borabanda,4.05
+26,Banjara Hills,17.4165,78.4382,Central,22,Tolichowki,3.62
+26,Banjara Hills,17.4165,78.4382,Central,23,Mehdipatnam,2.22
+26,Banjara Hills,17.4165,78.4382,Central,24,Attapur,4.65
+26,Banjara Hills,17.4165,78.4382,Central,25,Ameerpet,2.55
+26,Banjara Hills,17.4165,78.4382,Central,27,Begumpet,4.17
+26,Banjara Hills,17.4165,78.4382,Central,28,Himayatnagar,4.45
+26,Banjara Hills,17.4165,78.4382,Central,30,King Koti,3.96
+26,Banjara Hills,17.4165,78.4382,Central,31,Gokul Nagar,2.4
+26,Banjara Hills,17.4165,78.4382,Central,32,Ramnagar,1.5
+26,Banjara Hills,17.4165,78.4382,Central,33,Nalanda Nagar,2.52
+26,Banjara Hills,17.4165,78.4382,Central,34,Ashok Bazar,3.73
+26,Banjara Hills,17.4165,78.4382,Central,35,Jamal Colony,1.15
+26,Banjara Hills,17.4165,78.4382,Central,36,Hill Colony,2.04
+27,Begumpet,17.4412,78.4678,Central,5,Balanagar,4.68
+27,Begumpet,17.4412,78.4678,Central,16,Borabanda,3.35
+27,Begumpet,17.4412,78.4678,Central,25,Ameerpet,2.12
+27,Begumpet,17.4412,78.4678,Central,26,Banjara Hills,4.17
+27,Begumpet,17.4412,78.4678,Central,28,Himayatnagar,4.19
+27,Begumpet,17.4412,78.4678,Central,30,King Koti,4.95
+27,Begumpet,17.4412,78.4678,Central,31,Gokul Nagar,1.8
+27,Begumpet,17.4412,78.4678,Central,32,Ramnagar,3.29
+27,Begumpet,17.4412,78.4678,Central,33,Nalanda Nagar,2.22
+27,Begumpet,17.4412,78.4678,Central,34,Ashok Bazar,1.13
+27,Begumpet,17.4412,78.4678,Central,35,Jamal Colony,4.29
+27,Begumpet,17.4412,78.4678,Central,36,Hill Colony,2.13
+27,Begumpet,17.4412,78.4678,Central,37,Secunderabad,3.24
+28,Himayatnagar,17.4049,78.4783,Central,23,Mehdipatnam,4.62
+28,Himayatnagar,17.4049,78.4783,Central,25,Ameerpet,4.82
+28,Himayatnagar,17.4049,78.4783,Central,26,Banjara Hills,4.45
+28,Himayatnagar,17.4049,78.4783,Central,27,Begumpet,4.19
+28,Himayatnagar,17.4049,78.4783,Central,29,Kachiguda,2.32
+28,Himayatnagar,17.4049,78.4783,Central,30,King Koti,1.33
+28,Himayatnagar,17.4049,78.4783,Central,31,Gokul Nagar,3.52
+28,Himayatnagar,17.4049,78.4783,Central,32,Ramnagar,3.0
+28,Himayatnagar,17.4049,78.4783,Central,33,Nalanda Nagar,2.65
+28,Himayatnagar,17.4049,78.4783,Central,34,Ashok Bazar,3.06
+28,Himayatnagar,17.4049,78.4783,Central,35,Jamal Colony,3.5
+28,Himayatnagar,17.4049,78.4783,Central,36,Hill Colony,3.67
+28,Himayatnagar,17.4049,78.4783,Central,37,Secunderabad,4.43
+28,Himayatnagar,17.4049,78.4783,Central,57,Charminar,4.83
+29,Kachiguda,17.3978,78.4989,Central,28,Himayatnagar,2.32
+29,Kachiguda,17.3978,78.4989,Central,30,King Koti,3.15
+29,Kachiguda,17.3978,78.4989,Central,33,Nalanda Nagar,4.84
+29,Kachiguda,17.3978,78.4989,Central,34,Ashok Bazar,4.83
+29,Kachiguda,17.3978,78.4989,Central,37,Secunderabad,4.68
+29,Kachiguda,17.3978,78.4989,Central,52,Dilsukhnagar,4.22
+29,Kachiguda,17.3978,78.4989,Central,53,Kothapet,3.84
+29,Kachiguda,17.3978,78.4989,Central,55,Moosarambagh,4.13
+29,Kachiguda,17.3978,78.4989,Central,57,Charminar,4.77
+30,King Koti,17.3967,78.4692,Central,23,Mehdipatnam,3.57
+30,King Koti,17.3967,78.4692,Central,24,Attapur,4.88
+30,King Koti,17.3967,78.4692,Central,26,Banjara Hills,3.96
+30,King Koti,17.3967,78.4692,Central,27,Begumpet,4.95
+30,King Koti,17.3967,78.4692,Central,28,Himayatnagar,1.33
+30,King Koti,17.3967,78.4692,Central,29,Kachiguda,3.15
+30,King Koti,17.3967,78.4692,Central,31,Gokul Nagar,3.82
+30,King Koti,17.3967,78.4692,Central,32,Ramnagar,2.76
+30,King Koti,17.3967,78.4692,Central,33,Nalanda Nagar,2.97
+30,King Koti,17.3967,78.4692,Central,34,Ashok Bazar,3.84
+30,King Koti,17.3967,78.4692,Central,35,Jamal Colony,2.85
+30,King Koti,17.3967,78.4692,Central,36,Hill Colony,3.84
+30,King Koti,17.3967,78.4692,Central,55,Moosarambagh,4.65
+30,King Koti,17.3967,78.4692,Central,56,Madannapet Colony,4.98
+30,King Koti,17.3967,78.4692,Central,57,Charminar,3.95
+31,Gokul Nagar,17.4289,78.4567,Central,16,Borabanda,3.28
+31,Gokul Nagar,17.4289,78.4567,Central,23,Mehdipatnam,4.22
+31,Gokul Nagar,17.4289,78.4567,Central,25,Ameerpet,1.31
+31,Gokul Nagar,17.4289,78.4567,Central,26,Banjara Hills,2.4
+31,Gokul Nagar,17.4289,78.4567,Central,27,Begumpet,1.8
+31,Gokul Nagar,17.4289,78.4567,Central,28,Himayatnagar,3.52
+31,Gokul Nagar,17.4289,78.4567,Central,30,King Koti,3.82
+31,Gokul Nagar,17.4289,78.4567,Central,32,Ramnagar,1.55
+31,Gokul Nagar,17.4289,78.4567,Central,33,Nalanda Nagar,0.88
+31,Gokul Nagar,17.4289,78.4567,Central,34,Ashok Bazar,1.41
+31,Gokul Nagar,17.4289,78.4567,Central,35,Jamal Colony,2.52
+31,Gokul Nagar,17.4289,78.4567,Central,36,Hill Colony,0.37
+31,Gokul Nagar,17.4289,78.4567,Central,37,Secunderabad,4.58
+32,Ramnagar,17.4156,78.4523,Central,16,Borabanda,4.39
+32,Ramnagar,17.4156,78.4523,Central,22,Tolichowki,4.9
+32,Ramnagar,17.4156,78.4523,Central,23,Mehdipatnam,2.75
+32,Ramnagar,17.4156,78.4523,Central,25,Ameerpet,2.46
+32,Ramnagar,17.4156,78.4523,Central,26,Banjara Hills,1.5
+32,Ramnagar,17.4156,78.4523,Central,27,Begumpet,3.29
+32,Ramnagar,17.4156,78.4523,Central,28,Himayatnagar,3.0
+32,Ramnagar,17.4156,78.4523,Central,30,King Koti,2.76
+32,Ramnagar,17.4156,78.4523,Central,31,Gokul Nagar,1.55
+32,Ramnagar,17.4156,78.4523,Central,33,Nalanda Nagar,1.2
+32,Ramnagar,17.4156,78.4523,Central,34,Ashok Bazar,2.54
+32,Ramnagar,17.4156,78.4523,Central,35,Jamal Colony,1.03
+32,Ramnagar,17.4156,78.4523,Central,36,Hill Colony,1.36
+33,Nalanda Nagar,17.4223,78.4612,Central,16,Borabanda,4.16
+33,Nalanda Nagar,17.4223,78.4612,Central,23,Mehdipatnam,3.93
+33,Nalanda Nagar,17.4223,78.4612,Central,25,Ameerpet,2.17
+33,Nalanda Nagar,17.4223,78.4612,Central,26,Banjara Hills,2.52
+33,Nalanda Nagar,17.4223,78.4612,Central,27,Begumpet,2.22
+33,Nalanda Nagar,17.4223,78.4612,Central,28,Himayatnagar,2.65
+33,Nalanda Nagar,17.4223,78.4612,Central,29,Kachiguda,4.84
+33,Nalanda Nagar,17.4223,78.4612,Central,30,King Koti,2.97
+33,Nalanda Nagar,17.4223,78.4612,Central,31,Gokul Nagar,0.88
+33,Nalanda Nagar,17.4223,78.4612,Central,32,Ramnagar,1.2
+33,Nalanda Nagar,17.4223,78.4612,Central,34,Ashok Bazar,1.35
+33,Nalanda Nagar,17.4223,78.4612,Central,35,Jamal Colony,2.23
+33,Nalanda Nagar,17.4223,78.4612,Central,36,Hill Colony,1.03
+33,Nalanda Nagar,17.4223,78.4612,Central,37,Secunderabad,4.4
+34,Ashok Bazar,17.4312,78.4698,Central,16,Borabanda,4.09
+34,Ashok Bazar,17.4312,78.4698,Central,25,Ameerpet,2.39
+34,Ashok Bazar,17.4312,78.4698,Central,26,Banjara Hills,3.73
+34,Ashok Bazar,17.4312,78.4698,Central,27,Begumpet,1.13
+34,Ashok Bazar,17.4312,78.4698,Central,28,Himayatnagar,3.06
+34,Ashok Bazar,17.4312,78.4698,Central,29,Kachiguda,4.83
+34,Ashok Bazar,17.4312,78.4698,Central,30,King Koti,3.84
+34,Ashok Bazar,17.4312,78.4698,Central,31,Gokul Nagar,1.41
+34,Ashok Bazar,17.4312,78.4698,Central,32,Ramnagar,2.54
+34,Ashok Bazar,17.4312,78.4698,Central,33,Nalanda Nagar,1.35
+34,Ashok Bazar,17.4312,78.4698,Central,35,Jamal Colony,3.57
+34,Ashok Bazar,17.4312,78.4698,Central,36,Hill Colony,1.78
+34,Ashok Bazar,17.4312,78.4698,Central,37,Secunderabad,3.17
+35,Jamal Colony,17.4089,78.4456,Central,15,Jubilee Hills,4.9
+35,Jamal Colony,17.4089,78.4456,Central,16,Borabanda,4.95
+35,Jamal Colony,17.4089,78.4456,Central,22,Tolichowki,3.97
+35,Jamal Colony,17.4089,78.4456,Central,23,Mehdipatnam,1.72
+35,Jamal Colony,17.4089,78.4456,Central,24,Attapur,4.1
+35,Jamal Colony,17.4089,78.4456,Central,25,Ameerpet,3.18
+35,Jamal Colony,17.4089,78.4456,Central,26,Banjara Hills,1.15
+35,Jamal Colony,17.4089,78.4456,Central,27,Begumpet,4.29
+35,Jamal Colony,17.4089,78.4456,Central,28,Himayatnagar,3.5
+35,Jamal Colony,17.4089,78.4456,Central,30,King Koti,2.85
+35,Jamal Colony,17.4089,78.4456,Central,31,Gokul Nagar,2.52
+35,Jamal Colony,17.4089,78.4456,Central,32,Ramnagar,1.03
+35,Jamal Colony,17.4089,78.4456,Central,33,Nalanda Nagar,2.23
+35,Jamal Colony,17.4089,78.4456,Central,34,Ashok Bazar,3.57
+35,Jamal Colony,17.4089,78.4456,Central,36,Hill Colony,2.26
+36,Hill Colony,17.4278,78.4534,Central,15,Jubilee Hills,4.95
+36,Hill Colony,17.4278,78.4534,Central,16,Borabanda,3.2
+36,Hill Colony,17.4278,78.4534,Central,23,Mehdipatnam,3.94
+36,Hill Colony,17.4278,78.4534,Central,25,Ameerpet,1.2
+36,Hill Colony,17.4278,78.4534,Central,26,Banjara Hills,2.04
+36,Hill Colony,17.4278,78.4534,Central,27,Begumpet,2.13
+36,Hill Colony,17.4278,78.4534,Central,28,Himayatnagar,3.67
+36,Hill Colony,17.4278,78.4534,Central,30,King Koti,3.84
+36,Hill Colony,17.4278,78.4534,Central,31,Gokul Nagar,0.37
+36,Hill Colony,17.4278,78.4534,Central,32,Ramnagar,1.36
+36,Hill Colony,17.4278,78.4534,Central,33,Nalanda Nagar,1.03
+36,Hill Colony,17.4278,78.4534,Central,34,Ashok Bazar,1.78
+36,Hill Colony,17.4278,78.4534,Central,35,Jamal Colony,2.26
+36,Hill Colony,17.4278,78.4534,Central,37,Secunderabad,4.95
+37,Secunderabad,17.4399,78.4983,North,27,Begumpet,3.24
+37,Secunderabad,17.4399,78.4983,North,28,Himayatnagar,4.43
+37,Secunderabad,17.4399,78.4983,North,29,Kachiguda,4.68
+37,Secunderabad,17.4399,78.4983,North,31,Gokul Nagar,4.58
+37,Secunderabad,17.4399,78.4983,North,33,Nalanda Nagar,4.4
+37,Secunderabad,17.4399,78.4983,North,34,Ashok Bazar,3.17
+37,Secunderabad,17.4399,78.4983,North,36,Hill Colony,4.95
+37,Secunderabad,17.4399,78.4983,North,50,Whitefield,2.67
+38,Alwal,17.5023,78.5112,North,39,Kompally,4.19
+38,Alwal,17.5023,78.5112,North,41,Anjaiah Nagar,4.17
+38,Alwal,17.5023,78.5112,North,43,Marthanda Nagar,3.01
+38,Alwal,17.5023,78.5112,North,45,Dr. A.S. Rao Nagar,4.16
+39,Kompally,17.5334,78.4889,North,38,Alwal,4.19
+39,Kompally,17.5334,78.4889,North,41,Anjaiah Nagar,4.44
+39,Kompally,17.5334,78.4889,North,43,Marthanda Nagar,2.91
+39,Kompally,17.5334,78.4889,North,44,Chititra Medchal,2.46
+40,Suraram,17.5123,78.4456,North,4,Jeedimetla,2.4
+40,Suraram,17.5123,78.4456,North,5,Balanagar,4.45
+40,Suraram,17.5123,78.4456,North,10,Vijaya Nagar Colony,4.46
+40,Suraram,17.5123,78.4456,North,11,Gowlidoddy,3.41
+40,Suraram,17.5123,78.4456,North,12,IDPL Colony,4.21
+40,Suraram,17.5123,78.4456,North,41,Anjaiah Nagar,3.32
+40,Suraram,17.5123,78.4456,North,42,Sathya Colony,3.08
+40,Suraram,17.5123,78.4456,North,43,Marthanda Nagar,4.04
+40,Suraram,17.5123,78.4456,North,44,Chititra Medchal,4.96
+41,Anjaiah Nagar,17.4967,78.4723,North,4,Jeedimetla,4.89
+41,Anjaiah Nagar,17.4967,78.4723,North,5,Balanagar,4.45
+41,Anjaiah Nagar,17.4967,78.4723,North,38,Alwal,4.17
+41,Anjaiah Nagar,17.4967,78.4723,North,39,Kompally,4.44
+41,Anjaiah Nagar,17.4967,78.4723,North,40,Suraram,3.32
+41,Anjaiah Nagar,17.4967,78.4723,North,42,Sathya Colony,1.46
+41,Anjaiah Nagar,17.4967,78.4723,North,43,Marthanda Nagar,1.71
+42,Sathya Colony,17.4889,78.4612,North,4,Jeedimetla,3.92
+42,Sathya Colony,17.4889,78.4612,North,5,Balanagar,2.98
+42,Sathya Colony,17.4889,78.4612,North,7,Moosapet,4.99
+42,Sathya Colony,17.4889,78.4612,North,16,Borabanda,4.66
+42,Sathya Colony,17.4889,78.4612,North,40,Suraram,3.08
+42,Sathya Colony,17.4889,78.4612,North,41,Anjaiah Nagar,1.46
+42,Sathya Colony,17.4889,78.4612,North,43,Marthanda Nagar,3.16
+43,Marthanda Nagar,17.5078,78.4834,North,38,Alwal,3.01
+43,Marthanda Nagar,17.5078,78.4834,North,39,Kompally,2.91
+43,Marthanda Nagar,17.5078,78.4834,North,40,Suraram,4.04
+43,Marthanda Nagar,17.5078,78.4834,North,41,Anjaiah Nagar,1.71
+43,Marthanda Nagar,17.5078,78.4834,North,42,Sathya Colony,3.16
+43,Marthanda Nagar,17.5078,78.4834,North,44,Chititra Medchal,4.72
+44,Chititra Medchal,17.5489,78.4723,North,39,Kompally,2.46
+44,Chititra Medchal,17.5489,78.4723,North,40,Suraram,4.96
+44,Chititra Medchal,17.5489,78.4723,North,43,Marthanda Nagar,4.72
+45,Dr. A.S. Rao Nagar,17.4912,78.5487,Northeast,38,Alwal,4.16
+45,Dr. A.S. Rao Nagar,17.4912,78.5487,Northeast,46,Devar Yamjal,3.86
+45,Dr. A.S. Rao Nagar,17.4912,78.5487,Northeast,49,Peerzadiguda,3.59
+46,Devar Yamjal,17.5234,78.5623,Northeast (Rangareddy),45,Dr. A.S. Rao Nagar,3.86
+47,Nagaram,17.4534,78.5789,East,48,Tarakarama Nagar,3.74
+47,Nagaram,17.4534,78.5789,East,49,Peerzadiguda,2.07
+48,Tarakarama Nagar,17.4423,78.5456,East,47,Nagaram,3.74
+48,Tarakarama Nagar,17.4423,78.5456,East,49,Peerzadiguda,2.67
+48,Tarakarama Nagar,17.4423,78.5456,East,50,Whitefield,2.39
+49,Peerzadiguda,17.4612,78.5612,East,45,Dr. A.S. Rao Nagar,3.59
+49,Peerzadiguda,17.4612,78.5612,East,47,Nagaram,2.07
+49,Peerzadiguda,17.4612,78.5612,East,48,Tarakarama Nagar,2.67
+49,Peerzadiguda,17.4612,78.5612,East,50,Whitefield,4.71
+50,Whitefield,17.4389,78.5234,East,37,Secunderabad,2.67
+50,Whitefield,17.4389,78.5234,East,48,Tarakarama Nagar,2.39
+50,Whitefield,17.4389,78.5234,East,49,Peerzadiguda,4.71
+51,LB Nagar,17.3512,78.5523,Southeast,52,Dilsukhnagar,3.53
+51,LB Nagar,17.3512,78.5523,Southeast,53,Kothapet,4.12
+51,LB Nagar,17.3512,78.5523,Southeast,54,Meerpet,1.13
+52,Dilsukhnagar,17.3687,78.5245,Southeast,29,Kachiguda,4.22
+52,Dilsukhnagar,17.3687,78.5245,Southeast,51,LB Nagar,3.53
+52,Dilsukhnagar,17.3687,78.5245,Southeast,53,Kothapet,1.67
+52,Dilsukhnagar,17.3687,78.5245,Southeast,54,Meerpet,4.67
+52,Dilsukhnagar,17.3687,78.5245,Southeast,55,Moosarambagh,3.52
+52,Dilsukhnagar,17.3687,78.5245,Southeast,56,Madannapet Colony,4.9
+53,Kothapet,17.3823,78.5312,Southeast,29,Kachiguda,3.84
+53,Kothapet,17.3823,78.5312,Southeast,51,LB Nagar,4.12
+53,Kothapet,17.3823,78.5312,Southeast,52,Dilsukhnagar,1.67
+53,Kothapet,17.3823,78.5312,Southeast,55,Moosarambagh,4.75
+54,Meerpet,17.3456,78.5612,Southeast,51,LB Nagar,1.13
+54,Meerpet,17.3456,78.5612,Southeast,52,Dilsukhnagar,4.67
+55,Moosarambagh,17.3612,78.4923,South,29,Kachiguda,4.13
+55,Moosarambagh,17.3612,78.4923,South,30,King Koti,4.65
+55,Moosarambagh,17.3612,78.4923,South,52,Dilsukhnagar,3.52
+55,Moosarambagh,17.3612,78.4923,South,53,Kothapet,4.75
+55,Moosarambagh,17.3612,78.4923,South,56,Madannapet Colony,1.46
+55,Moosarambagh,17.3612,78.4923,South,57,Charminar,1.87
+56,Madannapet Colony,17.3534,78.4812,South,30,King Koti,4.98
+56,Madannapet Colony,17.3534,78.4812,South,52,Dilsukhnagar,4.9
+56,Madannapet Colony,17.3534,78.4812,South,55,Moosarambagh,1.46
+56,Madannapet Colony,17.3534,78.4812,South,57,Charminar,1.14
+57,Charminar,17.3616,78.4747,Old City,28,Himayatnagar,4.83
+57,Charminar,17.3616,78.4747,Old City,29,Kachiguda,4.77
+57,Charminar,17.3616,78.4747,Old City,30,King Koti,3.95
+57,Charminar,17.3616,78.4747,Old City,55,Moosarambagh,1.87
+57,Charminar,17.3616,78.4747,Old City,56,Madannapet Colony,1.14

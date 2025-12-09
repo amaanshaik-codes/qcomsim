@@ -1,0 +1,59 @@
+store_id,node_id,store_name,store_type,location,zone,latitude,longitude,capacity_sqft,cold_storage_sqft,loading_docks,daily_order_capacity,is_active,opening_time,closing_time,operating_hours
+HYD-MW-001,0,Shamshabad Master Warehouse,MASTER_WAREHOUSE,Shamshabad,Master_Warehouse,17.2403,78.4294,150000,25000,20,0,True,00:00,23:59,24
+HYD-DS-001,1,Miyapur Dark Store,DARK_STORE,Miyapur,Northwest,17.4968,78.3614,4309,646,2,857,True,06:00,00:00,18
+HYD-DS-002,2,KPHB (Kukatpally Phase B) Dark Store,DARK_STORE,KPHB (Kukatpally Phase B),Northwest,17.494,78.4008,4518,677,2,940,True,06:00,00:00,18
+HYD-DS-003,3,Kukatpally Dark Store,DARK_STORE,Kukatpally,Northwest,17.4917,78.392,3457,518,4,871,True,06:00,00:00,18
+HYD-DS-004,4,Jeedimetla Dark Store,DARK_STORE,Jeedimetla,Northwest,17.5008,78.4264,3209,481,4,1146,True,06:00,00:00,18
+HYD-DS-005,5,Balanagar Dark Store,DARK_STORE,Balanagar,Northwest,17.4728,78.4387,4827,724,2,1079,True,06:00,00:00,18
+HYD-DS-006,6,Hafeezpet Dark Store,DARK_STORE,Hafeezpet,Northwest,17.4578,78.3882,4209,631,2,1016,True,06:00,00:00,18
+HYD-DS-007,7,Moosapet Dark Store,DARK_STORE,Moosapet,Northwest,17.4676,78.4198,3061,459,2,847,True,06:00,00:00,18
+HYD-DS-008,8,Adarsh Nagar Dark Store,DARK_STORE,Adarsh Nagar,Northwest,17.4856,78.4021,3476,521,4,1058,True,06:00,00:00,18
+HYD-DS-009,9,Chaitanya Enclave Dark Store,DARK_STORE,Chaitanya Enclave,Northwest,17.4823,78.3967,3054,458,2,1087,True,06:00,00:00,18
+HYD-DS-010,10,Vijaya Nagar Colony Dark Store,DARK_STORE,Vijaya Nagar Colony,Northwest,17.4893,78.4112,4466,669,4,1132,True,06:00,00:00,18
+HYD-DS-011,11,Gowlidoddy Dark Store,DARK_STORE,Gowlidoddy,Northwest,17.5012,78.4156,4116,617,2,1014,True,06:00,00:00,18
+HYD-DS-012,12,IDPL Colony Dark Store,DARK_STORE,IDPL Colony,Northwest,17.4978,78.4089,3919,587,3,1101,True,06:00,00:00,18
+HYD-DS-013,13,Madhapur Dark Store,DARK_STORE,Madhapur,West,17.4483,78.3915,4657,698,2,803,True,06:00,00:00,18
+HYD-DS-014,14,Kondapur Dark Store,DARK_STORE,Kondapur,West,17.4657,78.3628,4429,664,3,1016,True,06:00,00:00,18
+HYD-DS-015,15,Jubilee Hills Dark Store,DARK_STORE,Jubilee Hills,West,17.4332,78.4071,3569,535,2,879,True,06:00,00:00,18
+HYD-DS-016,16,Borabanda Dark Store,DARK_STORE,Borabanda,West,17.4529,78.4387,4960,744,3,1190,True,06:00,00:00,18
+HYD-DS-017,17,Kothaguda Dark Store,DARK_STORE,Kothaguda,West,17.4621,78.3765,3209,481,3,847,True,06:00,00:00,18
+HYD-DS-018,18,Gachibowli Dark Store,DARK_STORE,Gachibowli,Southwest,17.4401,78.3489,2698,404,3,783,True,06:00,00:00,18
+HYD-DS-019,19,Manikonda Dark Store,DARK_STORE,Manikonda,Southwest,17.4025,78.3883,3736,560,2,735,True,06:00,00:00,18
+HYD-DS-020,20,Financial District Dark Store,DARK_STORE,Financial District,Southwest,17.4189,78.3371,3994,599,4,835,True,06:00,00:00,18
+HYD-DS-021,21,Kokapet Dark Store,DARK_STORE,Kokapet,Southwest,17.4098,78.3556,2755,413,2,793,True,06:00,00:00,18
+HYD-DS-022,22,Tolichowki Dark Store,DARK_STORE,Tolichowki,Southwest,17.3984,78.4098,3630,544,4,750,True,06:00,00:00,18
+HYD-DS-023,23,Mehdipatnam Dark Store,DARK_STORE,Mehdipatnam,Southwest,17.3967,78.4356,3766,564,4,785,True,06:00,00:00,18
+HYD-DS-024,24,Attapur Dark Store,DARK_STORE,Attapur,Southwest,17.3756,78.4289,2893,433,2,960,True,06:00,00:00,18
+HYD-DS-025,25,Ameerpet Dark Store,DARK_STORE,Ameerpet,Central,17.4374,78.4482,2593,388,2,938,True,06:00,00:00,18
+HYD-DS-026,26,Banjara Hills Dark Store,DARK_STORE,Banjara Hills,Central,17.4165,78.4382,3092,463,2,640,True,06:00,00:00,18
+HYD-DS-027,27,Begumpet Dark Store,DARK_STORE,Begumpet,Central,17.4412,78.4678,2706,405,3,794,True,06:00,00:00,18
+HYD-DS-028,28,Himayatnagar Dark Store,DARK_STORE,Himayatnagar,Central,17.4049,78.4783,3428,514,3,925,True,06:00,00:00,18
+HYD-DS-029,29,Kachiguda Dark Store,DARK_STORE,Kachiguda,Central,17.3978,78.4989,2833,424,3,789,True,06:00,00:00,18
+HYD-DS-030,30,King Koti Dark Store,DARK_STORE,King Koti,Central,17.3967,78.4692,2929,439,3,943,True,06:00,00:00,18
+HYD-DS-031,31,Gokul Nagar Dark Store,DARK_STORE,Gokul Nagar,Central,17.4289,78.4567,3937,590,4,949,True,06:00,00:00,18
+HYD-DS-032,32,Ramnagar Dark Store,DARK_STORE,Ramnagar,Central,17.4156,78.4523,2646,396,4,911,True,06:00,00:00,18
+HYD-DS-033,33,Nalanda Nagar Dark Store,DARK_STORE,Nalanda Nagar,Central,17.4223,78.4612,2850,427,4,873,True,06:00,00:00,18
+HYD-DS-034,34,Ashok Bazar Dark Store,DARK_STORE,Ashok Bazar,Central,17.4312,78.4698,3001,450,3,683,True,06:00,00:00,18
+HYD-DS-035,35,Jamal Colony Dark Store,DARK_STORE,Jamal Colony,Central,17.4089,78.4456,3277,491,4,738,True,06:00,00:00,18
+HYD-DS-036,36,Hill Colony Dark Store,DARK_STORE,Hill Colony,Central,17.4278,78.4534,3909,586,2,885,True,06:00,00:00,18
+HYD-DS-037,37,Secunderabad Dark Store,DARK_STORE,Secunderabad,North,17.4399,78.4983,3402,510,2,566,True,06:00,00:00,18
+HYD-DS-038,38,Alwal Dark Store,DARK_STORE,Alwal,North,17.5023,78.5112,2469,370,3,416,True,06:00,00:00,18
+HYD-DS-039,39,Kompally Dark Store,DARK_STORE,Kompally,North,17.5334,78.4889,2821,423,2,537,True,06:00,00:00,18
+HYD-DS-040,40,Suraram Dark Store,DARK_STORE,Suraram,North,17.5123,78.4456,2432,364,4,690,True,06:00,00:00,18
+HYD-DS-041,41,Anjaiah Nagar Dark Store,DARK_STORE,Anjaiah Nagar,North,17.4967,78.4723,2644,396,4,508,True,06:00,00:00,18
+HYD-DS-042,42,Sathya Colony Dark Store,DARK_STORE,Sathya Colony,North,17.4889,78.4612,3022,453,4,602,True,06:00,00:00,18
+HYD-DS-043,43,Marthanda Nagar Dark Store,DARK_STORE,Marthanda Nagar,North,17.5078,78.4834,2939,440,3,473,True,06:00,00:00,18
+HYD-DS-044,44,Chititra Medchal Dark Store,DARK_STORE,Chititra Medchal,North,17.5489,78.4723,2285,342,4,526,True,06:00,00:00,18
+HYD-DS-045,45,Dr. A.S. Rao Nagar Dark Store,DARK_STORE,Dr. A.S. Rao Nagar,Northeast,17.4912,78.5487,3149,472,3,675,True,06:00,00:00,18
+HYD-DS-046,46,Devar Yamjal Dark Store,DARK_STORE,Devar Yamjal,Northeast (Rangareddy),17.5234,78.5623,3197,479,4,619,True,06:00,00:00,18
+HYD-DS-047,47,Nagaram Dark Store,DARK_STORE,Nagaram,East,17.4534,78.5789,2817,422,2,585,True,06:00,00:00,18
+HYD-DS-048,48,Tarakarama Nagar Dark Store,DARK_STORE,Tarakarama Nagar,East,17.4423,78.5456,2283,342,3,660,True,06:00,00:00,18
+HYD-DS-049,49,Peerzadiguda Dark Store,DARK_STORE,Peerzadiguda,East,17.4612,78.5612,2186,327,2,786,True,06:00,00:00,18
+HYD-DS-050,50,Whitefield Dark Store,DARK_STORE,Whitefield,East,17.4389,78.5234,2224,333,4,478,True,06:00,00:00,18
+HYD-DS-051,51,LB Nagar Dark Store,DARK_STORE,LB Nagar,Southeast,17.3512,78.5523,2327,349,3,748,True,06:00,00:00,18
+HYD-DS-052,52,Dilsukhnagar Dark Store,DARK_STORE,Dilsukhnagar,Southeast,17.3687,78.5245,3221,483,3,432,True,06:00,00:00,18
+HYD-DS-053,53,Kothapet Dark Store,DARK_STORE,Kothapet,Southeast,17.3823,78.5312,2781,417,3,705,True,06:00,00:00,18
+HYD-DS-054,54,Meerpet Dark Store,DARK_STORE,Meerpet,Southeast,17.3456,78.5612,3083,462,4,528,True,06:00,00:00,18
+HYD-DS-055,55,Moosarambagh Dark Store,DARK_STORE,Moosarambagh,South,17.3612,78.4923,2023,303,4,748,True,06:00,00:00,18
+HYD-DS-056,56,Madannapet Colony Dark Store,DARK_STORE,Madannapet Colony,South,17.3534,78.4812,2234,335,4,749,True,06:00,00:00,18
+HYD-DS-057,57,Charminar Dark Store,DARK_STORE,Charminar,Old City,17.3616,78.4747,2546,381,4,793,True,06:00,00:00,18
